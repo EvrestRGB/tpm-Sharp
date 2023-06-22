@@ -1,0 +1,3 @@
+/home/sam/Z-Sharp/ZSharp/linux-build/CMakeFiles/rebuild_cache.dir
+/home/sam/Z-Sharp/ZSharp/linux-build/CMakeFiles/edit_cache.dir
+/home/sam/Z-Sharp/ZSharp/linux-build/CMakeFiles/ZSharp.dir
